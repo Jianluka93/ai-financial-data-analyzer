@@ -1,6 +1,6 @@
 # AI Financial Data Analyzer - Guida all'Utilizzo
 
-Benvenuto in **Finanza Personale Pro**, l'applicazione intelligente per il monitoraggio e l'analisi delle tue finanze. Questa guida ti aiuterà a preparare i tuoi file e a utilizzare al meglio le funzionalità dell'app.
+Benvenuto in **AI Financial Data Analyzer**, l'applicazione intelligente per il monitoraggio e l'analisi delle tue finanze. Questa guida ti aiuterà a preparare i tuoi file e a utilizzare al meglio le funzionalità dell'app.
 
 ---
 
