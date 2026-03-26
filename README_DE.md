@@ -1,6 +1,6 @@
-# Personal Finance Pro - Benutzerhandbuch
+# AI Financial Data Analyzer - Benutzerhandbuch
 
-Willkommen bei **Personal Finance Pro**, der intelligenten Anwendung zur Überwachung und Analyse Ihrer Finanzen. Dieses Handbuch hilft Ihnen bei der Vorbereitung Ihrer Dateien und der optimalen Nutzung der Funktionen der App.
+Willkommen bei **AI Financial Data Analyzer**, der intelligenten Anwendung zur Überwachung und Analyse Ihrer Finanzen. Dieses Handbuch hilft Ihnen bei der Vorbereitung Ihrer Dateien und der optimalen Nutzung der Funktionen der App.
 
 ---
 
