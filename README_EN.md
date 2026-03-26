@@ -1,6 +1,6 @@
-# Personal Finance Pro - User Guide
+# AI Financial Data Analyzer - User Guide
 
-Welcome to **Personal Finance Pro**, the smart application for monitoring and analyzing your finances. This guide will help you prepare your files and make the most of the app's features.
+Welcome to **AI Financial Data Analyzer**, the smart application for monitoring and analyzing your finances. This guide will help you prepare your files and make the most of the app's features.
 
 ---
 
