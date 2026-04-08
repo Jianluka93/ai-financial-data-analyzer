@@ -74,4 +74,4 @@ Per utilizzare l'assistente AI, devi avere Ollama installato sul tuo computer:
    - Clicca su **"Analizza con AI"**.
 
 ---
-*Finanza Personale Pro - Gestisci il tuo futuro, un centesimo alla volta.*
+*AI Financial Data Analyzer - Gestisci il tuo futuro, un centesimo alla volta.*
