@@ -74,4 +74,4 @@ Pour utiliser l'assistant IA, vous devez avoir Ollama installé sur votre ordina
    - Cliquez sur **"Analyser avec IA"**.
 
 ---
-*Personal Finance Pro - Gérez votre avenir, un centime à la fois.*
+*AI Financial Data Analyzer - Gérez votre avenir, un centime à la fois.*
