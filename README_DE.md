@@ -74,4 +74,4 @@ Um den KI-Assistenten zu nutzen, müssen Sie Ollama auf Ihrem Computer installie
    - Klicken Sie auf **"Mit KI analysieren"**.
 
 ---
-*Personal Finance Pro - Verwalten Sie Ihre Zukunft, Cent für Cent.*
+*AI Financial Data Analyzer - Verwalten Sie Ihre Zukunft, Cent für Cent.*
