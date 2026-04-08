@@ -74,4 +74,4 @@ To use the AI assistant, you must have Ollama installed on your computer:
    - Click **"Analyze with AI"**.
 
 ---
-*Personal Finance Pro - Manage your future, one cent at a time.*
+*AI Financial Data Analyzer - Manage your future, one cent at a time.*
